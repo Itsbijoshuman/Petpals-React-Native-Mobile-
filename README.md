@@ -1,5 +1,5 @@
 # Petpals-React-Native-Mobile
-A React-Native based petadoption and gigworker connection hybrid app
+A React-Native based pet adoption and gigworker connection hybrid app
 
 Features:
 Tinder Like Interface (Swipe) to adopt a pet
